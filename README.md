@@ -1,0 +1,1 @@
+A script that stops Sentinel One's running services then deletes all of its registry keys and directories. I've had to use this a few times to remove corrupted installations, so I figured it may save somebody some hassle. 
